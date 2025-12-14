@@ -1,0 +1,42 @@
+[
+  {
+    "name": "세글자",
+    "channelId": "@세글자",
+    "subscribers": 530000,
+    "description": "메이플스토리 레전드, 다양한 컨텐츠와 소통",
+    "category": "종합",
+    "thumbnail": "https://yt3.googleusercontent.com/6-1PEFYa6yVHKs9WsKF70Iij-In7yl3MeIuZV6Elktzff6lhbQjIM9X55egzwPdykEocJZ8D3g=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+    "name": "팡이요",
+    "channelId": "@bjpange",
+    "subscribers": 570000,
+    "description": "메이플스토리 초고스펙 직업 플레이",
+    "category": "종합",
+    "thumbnail": "https://yt3.googleusercontent.com/ytc/AIdro_k1buUlquCSFpnIcvA92vPiro_vKSMePewgy5bViGvBgg=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+    "name": "명훈",
+    "channelId": "@ddinghoon",
+    "subscribers": 350000,
+    "description": "메이플스토리 컨트롤의 신, 다양한 직업 체험",
+    "category": "공략",
+    "thumbnail": "https://yt3.googleusercontent.com/ytc/AIdro_kJLN8HM044uke9HxMu28KtBeLo8MypPzto785rjTdoAqo=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+    "name": "캡틴김수호",
+    "channelId": "@suholetsgo",
+    "subscribers": 222000,
+    "description": "깔끔한 정보 정리와 공략, 전 직업 마스터",
+    "category": "공략",
+    "thumbnail": "https://yt3.googleusercontent.com/ytc/AIdro_mpVQSs4lkfUbP1UPnPeccW0TmdsgOJkJkG687mG3_Beh8=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+    "name": "진격캐넌",
+    "channelId": "@진격캐넌",
+    "subscribers": 181000,
+    "description": "시원시원한 고스펙 플레이",
+    "category": "종합",
+    "thumbnail": "https://yt3.googleusercontent.com/wFu4uS_RPEF1UUhh4o7UGypODlv2CG-NsMwwvB76DnV4bUljz8prcxNzMFEmhEI68c_2dyK0=s900-c-k-c0x00ffffff-no-rj"
+  }
+]
